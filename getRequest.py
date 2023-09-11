@@ -15,6 +15,7 @@ def req():
         "slack_name" : slack_name,
         "current_date" : current_date,
         "utc_time" : current__time,
+        "track": track,
         "github_file_url" : github_file_url,
         "github_repo_url" : github_repo_url,
         "status_code" : 200
